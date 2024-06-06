@@ -30,7 +30,7 @@ class SWCClient:
 
     BULK_FILE_BASE_URL = (
         "https://raw.githubusercontent.com/ryandaydev"
-        + "/portfolio-project/main/chapter7/sdk/bulk/"
+        + "/portfolio-project/main/sdk/bulk/"
     )
 
     BULK_FILE_NAMES = {
